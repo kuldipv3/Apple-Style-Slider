@@ -15,4 +15,4 @@ thumbnails
 
 full-screen support
 
-<a href="https://github.com/kuldipv3/Apple-Style-Slider/blob/master/34fuya"><img src="https://github.com/kuldipv3/Apple-Style-Slider/blob/master/34fuya.gif" title="made at imgflip.com"/></a>
+<a href="https://github.com/kuldipv3/Apple-Style-Slider/blob/master/34fv7t"><img src="https://github.com/kuldipv3/Apple-Style-Slider/blob/master/34fv7t.gif" title="made at imgflip.com"/></a>
